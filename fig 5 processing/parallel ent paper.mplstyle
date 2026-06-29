@@ -1,0 +1,31 @@
+# Font sizes
+font.size: 6
+axes.titlesize: 6
+axes.labelsize: 6
+xtick.labelsize: 6
+ytick.labelsize: 6
+legend.fontsize: 5
+figure.titlesize: 6
+
+# Line / border thickness
+axes.linewidth: 0.5
+xtick.major.width: 0.5
+xtick.minor.width: 0.5
+ytick.major.width: 0.5
+ytick.minor.width: 0.5
+lines.linewidth: 0.5
+lines.markersize: 2
+
+xtick.major.pad : 3
+ytick.major.pad : 3
+xtick.minor.pad : 3
+ytick.minor.pad : 3
+axes.titlepad : 3
+axes.labelpad : 3
+
+# errorbars
+errorbar.capsize: 1.5
+
+#spines
+axes.spines.top: False
+axes.spines.right: False
